@@ -1,5 +1,7 @@
 **<H3>Aplikasi Pegawai Laravel 8</H3>**
 
+![image](https://user-images.githubusercontent.com/34785092/128293818-dd3c77bf-7d2b-4fa5-97b9-b86ee7f63960.png)
+
 Dibuat dengan menggunakan:
 
 -   PHP Framework Laravel 8
