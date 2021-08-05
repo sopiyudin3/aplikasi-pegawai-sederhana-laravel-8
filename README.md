@@ -2,10 +2,10 @@
 
 Dibuat dengan menggunakan:
 
-**-   PHP Framework Laravel 8
+-   PHP Framework Laravel 8
 -   Template AdminLTE 3 + Bootstrap
 -   Dompdf
--   Sistem Login**
+-   Sistem Login
     1.	Register
     2.	Forgot password
 
