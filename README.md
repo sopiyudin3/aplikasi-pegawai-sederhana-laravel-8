@@ -1,4 +1,4 @@
-**Aplikasi Pegawai Laravel 8**
+**<H3>Aplikasi Pegawai Laravel 8</H3>**
 
 Dibuat dengan menggunakan:
 
